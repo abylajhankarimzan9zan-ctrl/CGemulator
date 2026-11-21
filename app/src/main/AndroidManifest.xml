@@ -1,0 +1,11 @@
+CGemulator/
+├── app/
+│   └── src/
+│       └── main/
+│           ├── java/
+│           ├── res/
+│           └── AndroidManifest.xml
+├── gradle/
+├── build.gradle.kts
+├── settings.gradle.kts
+└── README.md
